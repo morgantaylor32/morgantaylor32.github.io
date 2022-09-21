@@ -1,4 +1,5 @@
 # Morgan T. Chidester
+![website_pic_placeholder.pdf]
 Morgan is working on her Ph.D in Astrophysics at Arizona State University.
 She is working with Dr. F.X. Timmes in the field of stellar evolution theory.
 The focus of research is primarily on White Dwarf (WD) seismology. 
@@ -15,3 +16,5 @@ Morgan is also gaining experience with machine learning to match observed variab
 ## Contributing Author
 [Resolving The Peak Of The Black Hole Mass Spectrum
 ](https://ui.adsabs.harvard.edu/abs/2022arXiv220809624F/abstract)
+[On Stellar Evolution in a Neutrino Hertzsprung-Russell Diagram]
+(https://ui.adsabs.harvard.edu/abs/2020ApJ...893..133F/abstract)
