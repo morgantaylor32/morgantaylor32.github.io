@@ -2,4 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Morgan T. Chidester]
-description: [Ph.D. Candidate, Astronomy and Astrophysics]
+description: [Ph.D. Candidate,  Astronomy and Astrophysics]
