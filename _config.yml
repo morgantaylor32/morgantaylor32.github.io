@@ -2,7 +2,4 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: [Morgan T. Chidester]
-description: [I am an Astrophysics graduate student at Arizona State University.  
-I am a theorist and I focus on stellar evolution. My primary interest is on White Dwarf (WD) seismology. 
-Much of my research involves analyzing seismic signatures from WDs to constrain their interiors which encapsulate their evolution history.
-Keep exploring the website to learn more!]
+description: [Ph.D. Candidate, Astronomy and Astrophysics]
