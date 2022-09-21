@@ -1,9 +1,11 @@
 # Morgan T. Chidester
 ![pic](./website_pic_placeholder.jpg)
-Morgan is working on her Ph.D in Astrophysics at Arizona State University.
-She is working with Dr. F.X. Timmes in the field of stellar evolution theory, with a primary focus on White Dwarf (WD) seismology. 
-Through analyzing seismic signatures from WDs, it is possible to constrain their interior structure which encapsulates their evolution history.
-Morgan is also gaining experience with machine learning to match observed variable white dwarfs with her data.
+I am working on my Ph.D in Astrophysics at Arizona State University.
+My advisor is Dr. F.X. Timmes, and his expertise is in stellar evolution theory.  Within that realm, my research focuses on White Dwarf (WD) seismology. 
+By analyzing seismic signatures from WDs, it is possible to constrain their interior structure which encapsulates their evolution history.  The seismic signals have far reaching implications for constraining important reaction rates that are necessary for the creation of elements that are needed for life.
+
+The nature of my work has given me experience in using stellar evolution codes, oscillation codes, various coding languages, and a working knowledge in machine learning.
+
 
 # Publications
 ## First Author
