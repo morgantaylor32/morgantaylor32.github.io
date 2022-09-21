@@ -1,5 +1,5 @@
 # Morgan T. Chidester
-["website_pic_placeholder.pdf"]
+![pic](./website_pic_placeholder.jpg)
 Morgan is working on her Ph.D in Astrophysics at Arizona State University.
 She is working with Dr. F.X. Timmes in the field of stellar evolution theory.
 The focus of research is primarily on White Dwarf (WD) seismology. 
