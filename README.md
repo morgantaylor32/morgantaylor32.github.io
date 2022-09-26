@@ -1,5 +1,5 @@
 # Morgan T. Chidester
-[comment]: # " test<img src=./Morgan_headshot.jpg alt=headshot width=400/>"
+[comment]: # " test<img src=./Morgan_headshot_resized.jpg alt=headshot width=400/>"
 
 ![pic](./Morgan_headshot_resized.jpg)
 
