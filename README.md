@@ -27,8 +27,6 @@ Due to the nature of my work, I have experience using stellar evolution codes, s
 # Contact
 [color:purple]: {Email:} 
 
-###### Email: 
-taylormorgan32@gmail.com; mtaylo60@asu.edu
+###### Email: taylormorgan32@gmail.com, mtaylo60@asu.edu
 
-###### Cell Phone: 
-801.979.7922
+###### Cell Phone: (801) 979-7922
