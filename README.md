@@ -1,7 +1,7 @@
 # Morgan T. Chidester
 [comment]: # " test<img src=./Morgan_headshot.jpg alt=headshot width=400/>"
 
-![pic](./Morgan_headshot.jpg)
+![pic](./Morgan_headshot_resized.jpg)
 
 
 I am working on my Ph.D in Astrophysics at Arizona State University.
