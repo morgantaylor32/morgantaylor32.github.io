@@ -28,7 +28,7 @@ Due to the nature of my work, I have experience using stellar evolution codes, s
 [Curriculum Vitae](./Morgan_T_Chidester_CV_Fall_2022.pdf)
 
 # PhD Dissertation
-[Dissertation](./Chidester_2023_Dissertation_ASU.pdf)
+[Dissertation](./Chidester_dissertation_2023_revised.pdf)
 # Contact
 [color:purple]: {Email:} 
 
