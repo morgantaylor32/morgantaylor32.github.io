@@ -3,7 +3,7 @@
 
 ![pic](./Morgan_headshot2.jpg)
 
-I've been working as a Data Scientist at Sorenson Communications until recently.  I greatly enjoyed my job, and loved how I was able to transfer computational and programming skills from astrophysics to help the company at Sorenson Communications.  This role provided me the opportunity to use machine learning techniques to build forecasting models.  I also participated in various data analysis projects for different services.  Examples include cost tracking, Video Relay Service Research and statistics, and a provide robust data analysis for a legal case. 
+I've been working as a Data Scientist at Sorenson Communications until recently.  I greatly enjoyed my job, and loved how I was able to transfer computational and programming skills from astrophysics to help the company at Sorenson Communications.  This role provided me the opportunity to use machine learning techniques to build and productionalize forecasting models.  I also participated in various data analysis projects for different services.  Examples include cost tracking, Video Relay Service Research and statistics (included customer activity and churn analysis), and a provide robust data analysis for a legal case. 
 
 Since graduating, I was able to be an online adjunct instructor for Maricopa Community College for the College Physics II course.  This has helped me refresh my physics knowledge and have the opportunity to mentor and teach students.  My favorite part of this temporary job was writing the exams.  It's been a way to express my creativity.
 
