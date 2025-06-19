@@ -28,8 +28,8 @@ Due to the nature of my work, I have experience using stellar evolution codes, s
 
 [On Stellar Evolution in a Neutrino Hertzsprung-Russell Diagram](https://ui.adsabs.harvard.edu/abs/2020ApJ...893..133F/abstract)
 
-# Resume
-[Resume](./Morgan_T_Chidester_2025_resume.pdf)
+# Résumé
+[Résumé](./Morgan_T_Chidester_2025_résumé.pdf)
 
 # CV
 [Curriculum Vitae](./Morgan_T_Chidester_CV_Fall_2022.pdf)
