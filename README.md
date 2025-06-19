@@ -12,7 +12,7 @@ I received my Ph.D in Astrophysics at Arizona State University in 2023.
 My advisor was Dr. F.X. Timmes, and his expertise is in stellar evolution theory.  Within that realm, my research focused on White Dwarf (WD) seismology. 
 By analyzing seismic signatures from WDs, it is possible to constrain their interior structure which encapsulates their evolution history.  The seismic signals have far reaching implications for constraining important nuclear reaction rates that are necessary for the creation of elements that are needed for life.
 
-Due to the nature of my work, I have experience using stellar evolution codes, stellar oscillation codes, various coding languages, and a working knowledge in machine learning.
+Due to the nature of my work, I have experience using stellar evolution codes, stellar oscillation codes, various coding languages, Azure Databricks, Snowflake, PowerBI, and a working knowledge in AWS. I have learned the importance of data validation and reliability, data cleaning, and data quality.   
 
 
 # Publications
